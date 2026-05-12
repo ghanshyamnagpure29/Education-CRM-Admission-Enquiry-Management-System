@@ -50,7 +50,7 @@ Designed and implemented a normalized relational database system for managing st
 
 ## ER Diagram
 
-![ER Diagram](images/ER_Diagram.png)
+<img src="ER_Diagram.png" width="800">
 
 ---
 
